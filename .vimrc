@@ -1,2 +1,2 @@
 set nocompatible
-syntax enable
+syntax on
